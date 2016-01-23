@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Java</string>
+    <string name="running_code">Running code!</string>
+    <string name="run_code">Run code</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="clear">Clear</string>
+    <string name="stop">Stop</string>
+</resources>
